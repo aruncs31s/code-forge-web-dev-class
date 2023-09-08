@@ -1,0 +1,40 @@
+body{
+  background-color: #1a1d23;
+}
+a {
+    color: #7ec7a2;
+    text-decoration: none;
+}
+.heading{
+  text-align: center;
+  color: #ffffff;
+
+}
+.about{
+  color: #ffffff;
+  padding-right: 28rem;
+}
+
+.linus_pic_jpeg{
+  float: right;
+  max-width: 30%;
+  max-height: 30%;
+}
+.lists{
+  white-space:nowrap;
+}
+img{
+  float: left;
+  max-width: 40%;
+  max-height: 40%;
+  
+}
+p{
+  text-align: justify;
+  color: white;
+}
+.linux{
+  color: white;
+  padding-left: 10px;
+
+}
